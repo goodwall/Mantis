@@ -160,7 +160,7 @@ open class CropViewController: UIViewController {
     }
     
     public override var prefersStatusBarHidden: Bool {
-        return true
+        return false
     }
     
     public override var preferredScreenEdgesDeferringSystemGestures: UIRectEdge {
